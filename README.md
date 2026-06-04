@@ -1,2 +1,3 @@
 # หน้าแรกของเรา
-[กิจกรรม](ativi.md)
+[กิจกรรม](ativi.md)  
+[google](http://www.google.com)
