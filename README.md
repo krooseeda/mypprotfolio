@@ -1,2 +1,2 @@
 # mypprotfolio  
-[งานกิจกรรม](#ativi.md)
+[กิจกรรม](ativi.md)
